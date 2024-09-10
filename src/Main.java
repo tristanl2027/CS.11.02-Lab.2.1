@@ -48,6 +48,7 @@ public class Main {
     public static int roundPositiveValueToNearestInteger(Double a) {
         return (int) (a + 0.5);
     }
+    
     // 8. roundNegativeValueToNearestInteger
     public static int roundNegativeValueToNearestInteger(Double a) {
         return (int) (a - 0.5);
